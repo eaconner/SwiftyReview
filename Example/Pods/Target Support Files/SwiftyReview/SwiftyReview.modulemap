@@ -1,0 +1,6 @@
+framework module SwiftyReview {
+  umbrella header "SwiftyReview-umbrella.h"
+
+  export *
+  module * { export * }
+}
